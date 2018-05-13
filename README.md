@@ -1,2 +1,2 @@
 # together-ai
-A collaborative group created to learn ml and dl 
+Group created to learn ml and dl 
